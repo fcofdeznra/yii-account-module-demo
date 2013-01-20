@@ -1,0 +1,3 @@
+[submodule "protected/modules/account"]
+	path = protected/modules/account
+	url = https://github.com/fcofdeznra/yii-account-module.git
