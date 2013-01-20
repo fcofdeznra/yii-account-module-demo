@@ -15,7 +15,6 @@ Installation
 * Configure database connection:
 
 ```
-[php]
 'db'=>array(
 	'connectionString' => 'mysql:host=localhost;dbname=account-module',
 	'username' => 'account-module',
