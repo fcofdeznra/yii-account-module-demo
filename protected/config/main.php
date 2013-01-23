@@ -83,6 +83,12 @@ return array(
 				*/
 			),
 		),
+		'mailer'=>array(
+			'class'=>'ext.mail.Mailer',
+			'backend'=>'smtp',
+			'backendParams'=>array(),
+			'mimeParams'=>array(),
+		),
 	),
 
 	// application-level parameters that can be accessed
